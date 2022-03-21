@@ -1,6 +1,5 @@
 # LabDayTwo
-!
-['Thhis is image']('https://hakifm.or.ke/wp-content/uploads/2022/02/istockphoto-1140705087-170667a.jpg')
+![Thhis is image](https://hakifm.or.ke/wp-content/uploads/2022/02/istockphoto-1140705087-170667a.jpg)
 
 --Tell me how to remove branch locally and remotely.
 *To delete a remote branch
